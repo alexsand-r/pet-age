@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="./public/ип.png" alt="Pet Age Converter" width="600"/>
+  <img src="./public/bg.png" alt="Pet Age Converter" width="600"/>
 </p>

@@ -177,3 +177,17 @@
   font-weight: bold;
   color: rgb(255, 140, 0);
 }
+
+.error {
+  font-size: 16px;
+  color: red;
+  margin-bottom: 25px;
+  background-color: white;
+  padding: 5px 15px;
+  border-radius: 25px;
+  display: none;
+}
+
+.errorAdd {
+  display: block;
+}

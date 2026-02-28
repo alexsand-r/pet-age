@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <>
       <div className={styles.page}>
-        <img src="/background.png" alt="background" className={styles.bg} />
+        <img src="background.png" alt="background" className={styles.bg} />
         <BlockContent />
       </div>
     </>
